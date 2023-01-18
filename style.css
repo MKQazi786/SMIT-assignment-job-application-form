@@ -1,0 +1,9 @@
+body
+{font-family: Arial, 'Courier New', sans-serif; 
+ background-color:wheat;}
+
+ h1,h2{
+    color:#A52A2A;} 
+    * {color: blueviolet;}
+    legend:focus-within {color:blue;}
+    
